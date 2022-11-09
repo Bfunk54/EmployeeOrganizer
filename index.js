@@ -1,4 +1,4 @@
-const Org = require("./lib/Game");
+const Org = require("./lib/Org");
 
 // Initialize a new Game object
 const org = new Org();
